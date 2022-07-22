@@ -5,6 +5,6 @@ I will follow the content of the Coursera course "Natural Language Processing Sp
 
 The project will be separated into courses, which will contain the course content and examples, and a personal project applying the course content.
 
-## Course 1: Classification and Vector Spaces in NLP
+## Course 1: Classification and Vector Spaces
 
 ### Week 1: Logistic Regression for Sentiment Analysis of Tweets
